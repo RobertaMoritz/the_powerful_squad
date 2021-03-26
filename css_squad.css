@@ -1,0 +1,60 @@
+body { 
+}
+
+.principal {
+background: pink;
+padding: 30px;
+} 
+
+.titulo-principal {
+    color:darkmagenta;
+    padding: 20px;
+    background: white;
+}
+
+#banner {
+width: 100%;
+}
+
+.titulo-centralizado {
+text-align:center
+}
+
+p {
+text-align: center;
+}
+
+#missao {
+font-size: 20px
+}
+
+em strong {
+color:darkpink;
+
+}
+
+.itens {
+font-style: italic;
+}
+
+.beneficios {
+background: #FFFFFF;
+padding: 20px;
+}
+
+.amanda {
+    width: 25%;
+}
+
+.imagembeneficios {
+width: 50%;
+}
+
+.roberta {
+    width: 25%;
+}
+
+.natasha {
+   width: 25%;
+}
+
